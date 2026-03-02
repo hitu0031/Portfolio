@@ -1049,7 +1049,6 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.5rem;
 		padding-top: 0.5rem;
-		background-color: #24262a;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
@@ -1277,4 +1276,5 @@ a:hover.back-to-top {
 	}
 	/* end of extra pages */
 }
+
 /* end of min-width 1200px */
